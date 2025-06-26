@@ -20,7 +20,7 @@ This project was created in collaboration with my internship group during our fi
 
 ## 📸 UI Preview
 
-![Qlearn UI Preview](./campusiq.png)
+![Qlearn UI Preview](./campusiq.jpeg)
 
 
 ## 🚀 Getting Started
