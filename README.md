@@ -1,2 +1,2 @@
 # QLearn
-Education website create with internship group during first year internship project
+Education website created with internship group during the first year internship project.
